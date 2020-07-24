@@ -1,0 +1,4 @@
+-git branch <nome da branch> -para criar uma nova ramificação.
+-git branch - mostra todas as branchs.
+-git checkout <ramificação> - para mudar a ramificação que esta trabalhando no momento
+-git checkout -b <nome da lista> - para criar uma ramificação e ja alterar para ela..
