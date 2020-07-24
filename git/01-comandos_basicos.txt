@@ -1,0 +1,13 @@
+git config --local user.name "<seu nome>"
+git config --local user.email "<seu email>"
+git init - iniciar o git em uma pasta
+git status - ver o status da pasta no git
+git add <nome do arquivO> - adiciona os arquivos para serem commitados
+git add . - adiciona todos os arquivos da pasta
+git commit -m <mensagem> - salva as alterações nos arquivos.
+
+--https://devhints.io/git-log -> site mostra varios meios de git log
+git log -mostra um historico de commits
+git log --oneline - mostra cada commit em uma linha
+git log -p - mostra mais informações para cada commit 
+--

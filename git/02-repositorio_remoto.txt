@@ -1,0 +1,18 @@
+--- Repositorio Remoto -- 
+ - um repositorio que ficara em um lugar na rede que possa ser
+acessado por outras pessoas.
+
+git init --bare ->para iniciar um repositorio puro, ou seja, que so ira conter as informações dos arquivos, que não contem uma copia dos arquivos de forma fisica por assim dizer. Esse comando deve ser iniciado no repositorio
+que será o servidor.
+
+voltando a pasta do projeto envia-se o comando
+git remote - que lista todos os repositorios que o repositorio local conhece
+git remote add <nome do repositorio> <caminho>
+git remote rename<nome do local> para alterar o nome de um repositorio remoto.
+git clone -<caminho repositorio remoto> <nome da pasta> - para que uma pessoa em outro computador consigar crair  epuxar as informações do servidor.
+git push <nome do remote><nome da branch> - para enviar os arquivos do git para o servidor.
+git pull<local> para que consiga puxar as informaçoes do servidor para o repositorio local
+
+
+
+
