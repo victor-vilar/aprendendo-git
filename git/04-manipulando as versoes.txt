@@ -1,3 +1,5 @@
-git checkout -- <arquivo> - serve para descartar as alterações em um determinado arquivo.
+git restore <file> - serve para descartar as alterações em um determinado arquivo.
 
-git reset HEAD <file> para desmarcar o arquivo para nao ser mais comitado.
+git restore --staged <file> para desmarcar o arquivo para nao ser mais comitado.
+
+git revert <rash comit> para voltar a versao do arquivo naquele commit.
