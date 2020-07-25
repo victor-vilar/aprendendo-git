@@ -1,0 +1,1 @@
+git checkout -- <arquivo> - serve para descartar as alterações em um determinado arquivo.

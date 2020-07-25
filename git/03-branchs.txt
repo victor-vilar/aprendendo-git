@@ -2,3 +2,6 @@
 -git branch - mostra todas as branchs.
 -git checkout <ramificação> - para mudar a ramificação que esta trabalhando no momento
 -git checkout -b <nome da lista> - para criar uma ramificação e ja alterar para ela...
+-git merge <nome da branch> pra juntar duas branchs
+-git rebase <nome da branch> pra pegar todos os comits que tinha na outra branch para a branch atual
+-git log --graph
