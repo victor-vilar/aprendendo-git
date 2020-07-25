@@ -1,1 +1,7 @@
 git checkout <rash> pra navegar entre os commits
+
+git checkout master - para voltar para branch principal e no presente na linha do tempo
+
+git diff - mostra a diferença estre os codigos se ainda nao foram commitados
+
+git diff <commit rash>..<commit rash> - mostra todas as alterações entre os commits
