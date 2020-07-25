@@ -9,4 +9,10 @@ git stash - pra salvar o arquivos temporariamente sem precisar dar um commit
 
 git stash lista - mostra tudo o que esta na lista de stash
 
+git stash apply<numero stash> - vai aplicar  as modificações so que elas vao ficar la na lista
+
+git stash drop<numero> pra remover uma stash da lista.
+
+
+
 colocando umas alteaçõeszinhas
