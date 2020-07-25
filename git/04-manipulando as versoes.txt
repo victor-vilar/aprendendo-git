@@ -7,7 +7,6 @@ git revert <rash> para retornar a um commit do rash passado.
 
 git stash - pra salvar o arquivos temporariamente sem precisar dar um commit
 
-<<<<<<< Updated upstream
 git stash lista - mostra tudo o que esta na lista de stash
 
 git stash apply<numero stash> - vai aplicar  as modificações so que elas vao ficar la na lista
@@ -16,7 +15,4 @@ git stash drop<numero> pra remover uma stash da lista.
 
 
 
-colocando umas alteaçõeszinhas
-=======
-git stash lista - mostra tudo o que esta na lista de stash
->>>>>>> Stashed changes
+
