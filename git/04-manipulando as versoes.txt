@@ -3,3 +3,7 @@ git restore <arquivo> - serve para descartar as alterações em um determinado a
 git restore --staged <file> para desmarcar o arquivo para nao ser mais comitado.
 
 git revert <rash> para retornar a um commit do rash passado.
+
+
+
+fazendo um monte de merda pra ver dse consigo reverter
